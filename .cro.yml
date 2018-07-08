@@ -1,0 +1,8 @@
+---
+name: JoanPujol
+cro: 1
+id: JoanPujol
+env:  []
+links:  []
+entrypoint: script/service.p6
+...

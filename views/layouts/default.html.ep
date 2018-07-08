@@ -1,0 +1,21 @@
+% my (%var) = @_;
+<!doctype html>
+<html>
+	<head>
+	<title>Materials de docència i recerca (Joan Pujol)</title>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<link href="https://fonts.googleapis.com/css?family=Vollkorn" rel="stylesheet">
+  <link href="/css/contingut.css" media="screen" rel="stylesheet" type="text/css" />
+  <link rel="icon" href="data:;base64,iVBORw0KGgo=">
+</head>
+
+<body>
+
+  <p>(pàgina en construcció)</p>
+  <h1>Materials de docència i recerca</h1>
+
+  <%= %var<menu>    %>
+  <%= %var<content> %>
+
+</body>
+</html>
